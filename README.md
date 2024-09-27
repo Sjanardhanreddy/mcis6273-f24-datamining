@@ -1,2 +1,4 @@
-# mcis6273-f24-datamining
-mcis6273-f24-datamining
+#zotero username : 
+janardhanreddys
+
+https://lipsum.com/
